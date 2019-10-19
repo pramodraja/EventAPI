@@ -1,0 +1,9 @@
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\obj\Debug\netcoreapp2.2\EventDAL.csproj.CoreCompileInputs.cache
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\obj\Debug\netcoreapp2.2\EventDAL.AssemblyInfoInputs.cache
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\obj\Debug\netcoreapp2.2\EventDAL.AssemblyInfo.cs
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\bin\Debug\netcoreapp2.2\EventDAL.deps.json
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\bin\Debug\netcoreapp2.2\EventDAL.dll
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\bin\Debug\netcoreapp2.2\EventDAL.pdb
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\obj\Debug\netcoreapp2.2\EventDAL.dll
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\obj\Debug\netcoreapp2.2\EventDAL.pdb
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventDAL\obj\Debug\netcoreapp2.2\EventDAL.csprojAssemblyReference.cache

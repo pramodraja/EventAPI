@@ -1,0 +1,12 @@
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\obj\Debug\netcoreapp2.2\EventBLL.csprojAssemblyReference.cache
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\obj\Debug\netcoreapp2.2\EventBLL.csproj.CoreCompileInputs.cache
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\obj\Debug\netcoreapp2.2\EventBLL.AssemblyInfoInputs.cache
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\obj\Debug\netcoreapp2.2\EventBLL.AssemblyInfo.cs
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\bin\Debug\netcoreapp2.2\EventDAL.dll
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\bin\Debug\netcoreapp2.2\EventBLL.deps.json
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\bin\Debug\netcoreapp2.2\EventBLL.dll
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\bin\Debug\netcoreapp2.2\EventBLL.pdb
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\bin\Debug\netcoreapp2.2\EventDAL.pdb
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\obj\Debug\netcoreapp2.2\EventBLL.csproj.CopyComplete
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\obj\Debug\netcoreapp2.2\EventBLL.dll
+C:\Pramod\Dev\ng\lsnj\EventAPI\EventAPI\EventBLL\obj\Debug\netcoreapp2.2\EventBLL.pdb

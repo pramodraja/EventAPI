@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventAPI", "EventAPI\EventAPI.csproj", "{47EC66A9-4020-4FA8-8B2F-A677709F793E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDAL", "EventDAL\EventDAL.csproj", "{E65696F9-D371-43A6-B714-FC7BD516A3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBLL", "EventBLL\EventBLL.csproj", "{4F3000D4-CB02-4BBD-80E6-398E1BC6679B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47EC66A9-4020-4FA8-8B2F-A677709F793E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EC66A9-4020-4FA8-8B2F-A677709F793E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EC66A9-4020-4FA8-8B2F-A677709F793E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EC66A9-4020-4FA8-8B2F-A677709F793E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65696F9-D371-43A6-B714-FC7BD516A3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65696F9-D371-43A6-B714-FC7BD516A3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65696F9-D371-43A6-B714-FC7BD516A3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65696F9-D371-43A6-B714-FC7BD516A3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3000D4-CB02-4BBD-80E6-398E1BC6679B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3000D4-CB02-4BBD-80E6-398E1BC6679B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3000D4-CB02-4BBD-80E6-398E1BC6679B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3000D4-CB02-4BBD-80E6-398E1BC6679B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18CFC518-6C1F-4741-AEBF-9DAC8A4E994D}
+	EndGlobalSection
+EndGlobal
